@@ -11,8 +11,6 @@
 **zhan.gu@nus.edu.sg**
 
 ---
-### Open and refer to workshop guide in respective folders: S-RS Workshop Guide Day?.pdf
----
 
 ### References
 
